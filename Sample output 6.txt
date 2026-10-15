@@ -1,0 +1,7 @@
+Total words: 14
+Total characters: 92
+Characters without spaces: 79
+Total vowels: 24
+Repeated words:
+python : 3
+is : 2

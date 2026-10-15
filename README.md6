@@ -1,0 +1,53 @@
+Text Analysis Using Python
+
+Project Description
+
+This project is used to analyse a given text and find the total number of words, characters, vowels, and repeated words using Python.
+
+Objective
+
+The main objective of this project is to practise basic Python programming and understand simple text processing techniques.
+
+Tools Used
+
+- Python
+- Jupyter Notebook
+
+Features
+
+- Counts the total number of words in the text.
+- Counts the total number of characters.
+- Finds the total number of vowels.
+- Identifies repeated words in the text.
+
+How It Works
+
+1. A sample paragraph is stored in a variable.
+2. The "split()" function is used to separate the words.
+3. The "len()" function is used to count words and characters.
+4. A loop is used to count vowels.
+5. The "Counter" module is used to identify repeated words.
+
+Sample Output
+
+Total number of words: 14
+Total number of characters: 98
+Total number of vowels: 35
+Repeated words:
+python : 2
+is : 2
+data : 2
+analysis : 2
+
+Note: The output values depend on the input paragraph and the counting method used.
+
+Learning Outcomes
+
+- Learned how to work with strings in Python.
+- Practised word and character counting.
+- Understood how to identify vowels and repeated words.
+- Improved basic Python programming skills.
+
+Conclusion
+
+This project helped me understand basic text analysis using Python. It was a good opportunity to practise loops, strings, lists, and the Counter module.
